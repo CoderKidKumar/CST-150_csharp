@@ -1,0 +1,18 @@
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\bin\Debug\net5.0-windows\Activity1 Form.exe
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\bin\Debug\net5.0-windows\Activity1 Form.deps.json
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\bin\Debug\net5.0-windows\Activity1 Form.runtimeconfig.json
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\bin\Debug\net5.0-windows\Activity1 Form.runtimeconfig.dev.json
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\bin\Debug\net5.0-windows\Activity1 Form.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\bin\Debug\net5.0-windows\ref\Activity1 Form.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\bin\Debug\net5.0-windows\Activity1 Form.pdb
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.csproj.AssemblyReference.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1_Form.Form1.resources
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.csproj.GenerateResource.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.AssemblyInfoInputs.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.AssemblyInfo.cs
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.csproj.CoreCompileInputs.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\ref\Activity1 Form.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.pdb
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity1 Form\obj\Debug\net5.0-windows\Activity1 Form.genruntimeconfig.cache
