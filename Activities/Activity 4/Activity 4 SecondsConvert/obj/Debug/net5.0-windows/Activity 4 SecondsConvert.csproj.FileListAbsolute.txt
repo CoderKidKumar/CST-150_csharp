@@ -1,0 +1,18 @@
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\bin\Debug\net5.0-windows\Activity 4 SecondsConvert.exe
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\bin\Debug\net5.0-windows\Activity 4 SecondsConvert.deps.json
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\bin\Debug\net5.0-windows\Activity 4 SecondsConvert.runtimeconfig.json
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\bin\Debug\net5.0-windows\Activity 4 SecondsConvert.runtimeconfig.dev.json
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\bin\Debug\net5.0-windows\Activity 4 SecondsConvert.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\bin\Debug\net5.0-windows\ref\Activity 4 SecondsConvert.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\bin\Debug\net5.0-windows\Activity 4 SecondsConvert.pdb
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.csproj.AssemblyReference.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity_4_SecondsConvert.Form1.resources
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.csproj.GenerateResource.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.AssemblyInfoInputs.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.AssemblyInfo.cs
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.csproj.CoreCompileInputs.cache
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\ref\Activity 4 SecondsConvert.dll
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.pdb
+C:\Users\natha.DESKTOP-R4L05GD\source\repos\Activity 4 SecondsConvert\obj\Debug\net5.0-windows\Activity 4 SecondsConvert.genruntimeconfig.cache
