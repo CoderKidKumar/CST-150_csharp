@@ -17,30 +17,31 @@ namespace Activity7_MathLoops
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            int loops = (int)numericLoops.Value;
-            double startAt = (double)numericStartAt.Value;
-            double f = startAt;
-
-            for (int l = 1; l <= loops; l++)
+            decimal fraction = 3;
+            int terms = (int)numericLoops.Value;
+            decimal answer = 0;
+           
+            for(int loop = 1; loop<=terms; loop++)
             {
-                double celsius = (f - 32) * 5 / 9;
-                listBox1.Items.Add("F: " + f + "............ C: " + celsius);
-                f = f + 10;
+                if (loop == 1)
+                {
+                    answer = 4;
+                }
+                else if (loop % 2 == 0)
+                {
+                    answer = answer - (4 / fraction);
+                    fraction = fraction + 2;
+                }
+                else if (loop != 1 && loop % 2 != 0)
+                {
+                     answer = answer + (4 / fraction);
+                     fraction = fraction + 2;
+                }
             }
-        }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            numericLoops.Value = 1;
-            numericStartAt.Value = 0;
-            listBox1.Items.Clear();
+            label2.Text = "Approx. vale of pi after " + terms + " terms = \n" + answer;
         }
     }
 }
