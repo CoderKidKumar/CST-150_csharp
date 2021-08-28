@@ -1,0 +1,6 @@
+/Users/prkid99/Projects/Activity10_Breakpoints/Activity10_Breakpoints/bin/Debug/Activity10_Breakpoints.exe
+/Users/prkid99/Projects/Activity10_Breakpoints/Activity10_Breakpoints/bin/Debug/Activity10_Breakpoints.pdb
+/Users/prkid99/Projects/Activity10_Breakpoints/Activity10_Breakpoints/obj/Debug/Activity10_Breakpoints.csproj.AssemblyReference.cache
+/Users/prkid99/Projects/Activity10_Breakpoints/Activity10_Breakpoints/obj/Debug/Activity10_Breakpoints.csproj.CoreCompileInputs.cache
+/Users/prkid99/Projects/Activity10_Breakpoints/Activity10_Breakpoints/obj/Debug/Activity10_Breakpoints.exe
+/Users/prkid99/Projects/Activity10_Breakpoints/Activity10_Breakpoints/obj/Debug/Activity10_Breakpoints.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{770C2F8E-5FA0-4393-895E-B91C6F0503F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Activity10_Breakpoints/Program.cs">
+    <Files>
+      <File FileName="Activity10_Breakpoints/Program.cs" Line="24" Column="1" />
+      <File FileName="Activity10_Breakpoints/Set.cs" Line="65" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Activity10_Breakpoints" expanded="True">
+            <Node name="Activity10_Breakpoints" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Activity10__Breakpoints PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
