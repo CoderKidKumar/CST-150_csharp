@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3ED5EE58-8683-435F-85C2-59DEE6C19E78}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Activity12_FileEndWith/Program.cs">
+    <Files>
+      <File FileName="Activity12_FileEndWith/Program.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Activity12_FileEndWith" expanded="True">
+            <Node name="Activity12_FileEndWith" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Activity12__FileEndWith PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

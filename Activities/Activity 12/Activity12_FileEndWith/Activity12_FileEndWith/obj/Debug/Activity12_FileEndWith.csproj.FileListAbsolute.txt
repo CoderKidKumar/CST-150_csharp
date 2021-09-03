@@ -1,0 +1,6 @@
+/Users/prkid99/Projects/Activity12_FileEndWith/Activity12_FileEndWith/bin/Debug/Activity12_FileEndWith.exe
+/Users/prkid99/Projects/Activity12_FileEndWith/Activity12_FileEndWith/bin/Debug/Activity12_FileEndWith.pdb
+/Users/prkid99/Projects/Activity12_FileEndWith/Activity12_FileEndWith/obj/Debug/Activity12_FileEndWith.csproj.AssemblyReference.cache
+/Users/prkid99/Projects/Activity12_FileEndWith/Activity12_FileEndWith/obj/Debug/Activity12_FileEndWith.csproj.CoreCompileInputs.cache
+/Users/prkid99/Projects/Activity12_FileEndWith/Activity12_FileEndWith/obj/Debug/Activity12_FileEndWith.exe
+/Users/prkid99/Projects/Activity12_FileEndWith/Activity12_FileEndWith/obj/Debug/Activity12_FileEndWith.pdb
