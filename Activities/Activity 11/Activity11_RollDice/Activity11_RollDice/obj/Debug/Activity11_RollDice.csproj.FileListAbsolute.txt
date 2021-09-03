@@ -1,0 +1,6 @@
+/Users/prkid99/Projects/Activity11_RollDice/Activity11_RollDice/bin/Debug/Activity11_RollDice.exe
+/Users/prkid99/Projects/Activity11_RollDice/Activity11_RollDice/bin/Debug/Activity11_RollDice.pdb
+/Users/prkid99/Projects/Activity11_RollDice/Activity11_RollDice/obj/Debug/Activity11_RollDice.csproj.AssemblyReference.cache
+/Users/prkid99/Projects/Activity11_RollDice/Activity11_RollDice/obj/Debug/Activity11_RollDice.csproj.CoreCompileInputs.cache
+/Users/prkid99/Projects/Activity11_RollDice/Activity11_RollDice/obj/Debug/Activity11_RollDice.exe
+/Users/prkid99/Projects/Activity11_RollDice/Activity11_RollDice/obj/Debug/Activity11_RollDice.pdb

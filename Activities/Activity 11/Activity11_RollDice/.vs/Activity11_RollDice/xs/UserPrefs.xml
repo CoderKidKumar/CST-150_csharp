@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ED5F50A3-5890-4475-86DC-B8F80DBAB04B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Activity11_RollDice/Program.cs">
+    <Files>
+      <File FileName="Activity11_RollDice/Program.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Activity11_RollDice" expanded="True">
+            <Node name="Activity11_RollDice" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Activity11__RollDice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
