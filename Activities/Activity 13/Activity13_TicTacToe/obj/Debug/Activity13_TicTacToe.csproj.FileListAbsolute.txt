@@ -1,0 +1,10 @@
+C:\Users\kumar\source\repos\Activity13_TicTacToe\bin\Debug\Activity13_TicTacToe.exe.config
+C:\Users\kumar\source\repos\Activity13_TicTacToe\bin\Debug\Activity13_TicTacToe.exe
+C:\Users\kumar\source\repos\Activity13_TicTacToe\bin\Debug\Activity13_TicTacToe.pdb
+C:\Users\kumar\source\repos\Activity13_TicTacToe\obj\Debug\Activity13_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\kumar\source\repos\Activity13_TicTacToe\obj\Debug\Activity13_TicTacToe.Form1.resources
+C:\Users\kumar\source\repos\Activity13_TicTacToe\obj\Debug\Activity13_TicTacToe.Properties.Resources.resources
+C:\Users\kumar\source\repos\Activity13_TicTacToe\obj\Debug\Activity13_TicTacToe.csproj.GenerateResource.cache
+C:\Users\kumar\source\repos\Activity13_TicTacToe\obj\Debug\Activity13_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kumar\source\repos\Activity13_TicTacToe\obj\Debug\Activity13_TicTacToe.exe
+C:\Users\kumar\source\repos\Activity13_TicTacToe\obj\Debug\Activity13_TicTacToe.pdb
