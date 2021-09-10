@@ -1,0 +1,11 @@
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\bin\Debug\Activity15_TwoFormWindows.exe.config
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\bin\Debug\Activity15_TwoFormWindows.exe
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\bin\Debug\Activity15_TwoFormWindows.pdb
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.csproj.AssemblyReference.cache
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.Form1.resources
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.Properties.Resources.resources
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.csproj.GenerateResource.cache
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.csproj.CoreCompileInputs.cache
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.exe
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.pdb
+C:\Users\kumar\source\repos\Activity15_TwoFormWindows\obj\Debug\Activity15_TwoFormWindows.Form2.resources
