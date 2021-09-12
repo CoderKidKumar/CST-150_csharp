@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\natha.DESKTOP-R4L05GD\\.nuget\\packages\\": {}
+    "C:\\Users\\kumar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natha.DESKTOP-R4L05GD\\source\\repos\\InventoryManagerApp\\InventoryManagerApp.csproj",
+      "projectUniqueName": "C:\\Users\\kumar\\source\\repos\\InventoryManagerApp\\InventoryManagerApp.csproj",
       "projectName": "InventoryManagerApp",
-      "projectPath": "C:\\Users\\natha.DESKTOP-R4L05GD\\source\\repos\\InventoryManagerApp\\InventoryManagerApp.csproj",
-      "packagesPath": "C:\\Users\\natha.DESKTOP-R4L05GD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natha.DESKTOP-R4L05GD\\source\\repos\\InventoryManagerApp\\obj\\",
+      "projectPath": "C:\\Users\\kumar\\source\\repos\\InventoryManagerApp\\InventoryManagerApp.csproj",
+      "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kumar\\source\\repos\\InventoryManagerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\natha.DESKTOP-R4L05GD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
